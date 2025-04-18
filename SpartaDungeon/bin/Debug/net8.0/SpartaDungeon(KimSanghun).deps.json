@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SpartaDungeon(KimSanghun)/1.0.0": {
+        "runtime": {
+          "SpartaDungeon(KimSanghun).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpartaDungeon(KimSanghun)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

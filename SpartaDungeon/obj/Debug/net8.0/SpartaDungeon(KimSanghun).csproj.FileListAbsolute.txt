@@ -1,0 +1,28 @@
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon(KimSanghun).exe
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon(KimSanghun).deps.json
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon(KimSanghun).runtimeconfig.json
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon(KimSanghun).dll
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon(KimSanghun).pdb
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).AssemblyInfoInputs.cache
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).AssemblyInfo.cs
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).csproj.CoreCompileInputs.cache
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).dll
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\refint\SpartaDungeon(KimSanghun).dll
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).pdb
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).genruntimeconfig.cache
+C:\Users\x note\OneDrive\바탕 화면\새 폴더\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\ref\SpartaDungeon(KimSanghun).dll
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon(KimSanghun).exe
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon(KimSanghun).deps.json
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon(KimSanghun).runtimeconfig.json
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon(KimSanghun).dll
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon(KimSanghun).pdb
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).AssemblyInfoInputs.cache
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).AssemblyInfo.cs
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).csproj.CoreCompileInputs.cache
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).dll
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\refint\SpartaDungeon(KimSanghun).dll
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).pdb
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon(KimSanghun).genruntimeconfig.cache
+C:\Users\x note\OneDrive\바탕 화면\SpartaDungeon(KimSanghun)\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\ref\SpartaDungeon(KimSanghun).dll
